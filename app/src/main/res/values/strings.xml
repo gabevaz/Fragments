@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="eu_sou_um_fragment">Eu sou um fragment</string>
+    <string name="exibir_fragment_um">Exibir fragment um</string>
+    <string name="exibir_fragment_dois">Exibir fragment dois</string>
+    <string name="eu_sou_outra_fragment">Eu sou outra fragment</string>
+</resources>
